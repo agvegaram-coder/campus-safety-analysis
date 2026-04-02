@@ -1,2 +1,2 @@
-# campus-safety-analysis
-Dataset and methodology for campus safety perception story
+# food-aid-applications
+Dataset and methodology for food applications story
